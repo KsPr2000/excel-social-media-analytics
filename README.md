@@ -67,6 +67,8 @@ Task 5 : Campaign Effectiveness
 ○ Which campaign had the highest ROI in terms of engagement vs. budget. 
  
 ○ Which campaign had the strongest follower growth impact. 
+
+
 Task 6: Follower Retention & Audience Loyalty 
  
 ● Visualize weekly follower growth trends by platform using line charts. 
